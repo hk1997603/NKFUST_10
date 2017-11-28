@@ -7,3 +7,4 @@
 
 ##### 介面：![NKFUST](1.png)
 ![NKFUST](2.png)
+##### 甘特圖：![NKFUST](01.jpeg)
