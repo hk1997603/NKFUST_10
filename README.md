@@ -17,6 +17,15 @@
 ##### 甘特圖：![NKFUST](01.jpeg)
 ##### 使用者案例圖：
 ![NKFUST](1511787383467.jpg)
+##### Arduino程式碼：
+![NKFUST](31.jpg)
+![NKFUST](32.jpg)
+![NKFUST](33.jpg)
+![NKFUST](34.jpg)
+![NKFUST](35.jpg)
+![NKFUST](36.jpg)
+![NKFUST](37.jpg)
+![NKFUST](38.jpg)
 ##### APP程式碼：
 ![NKFUST](11.jpg)
 ![NKFUST](12.jpg)
