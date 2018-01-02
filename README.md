@@ -26,6 +26,13 @@
 ![NKFUST](36.jpg)
 ![NKFUST](37.jpg)
 ![NKFUST](38.jpg)
+##### Arduino介面顯示
+![NKFUST](41.jpg)
+![NKFUST](42.jpg)
+![NKFUST](43.jpg)
+![NKFUST](44.jpg)
+##### APP介面顯示：![NKFUST](1.png)
+![NKFUST](2.png)
 ##### APP程式碼：
 ![NKFUST](11.jpg)
 ![NKFUST](12.jpg)
